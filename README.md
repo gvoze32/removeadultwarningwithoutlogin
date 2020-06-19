@@ -8,3 +8,8 @@ First you need to install either one of these user-script add-ons for your brows
 * [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) for Chrome/Edge
 
 Then open [this](https://raw.githubusercontent.com/gvoze32/removeadultwarningwithoutlogin/master/removeadultwarningwithoutlogin.user.js) to show Install dialog.
+
+### Supported Sites
+
+* Liputan6.com
+* Idntimes.com
